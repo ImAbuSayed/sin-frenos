@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sin-frenos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Sin Frenos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sin-frenos/) |
+| **Get License** | [Secure Licensing Rights for Sin Frenos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sin-frenos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche nos vamos sin frenos en la oscuridad
+> Tú y yo perdiéndonos por toda la ciudad
+> Siento el calor, nena, ya no hay vuelta atrás
+> Dime qué quieres, que yo te voy a dar más
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
