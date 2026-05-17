@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sin Frenos
+
+This log tracks the cryptographic history and versioning for the song **Sin Frenos** (sin-frenos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-17T16:21:17.925058 | `v1` | `3d3764067b8a60e424034d82eec0f8eee776cca34b69e20a3c17c8eebba1dd43` | `a085bf5fb7ea72157ddb7d48726bcc33ebefd57aba0b1ca40dfdd528b2d6445d` | `2026-05-17_sin-frenos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

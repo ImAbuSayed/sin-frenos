@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sin-frenos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Sin Frenos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sin-frenos/) |
+| **Get License** | [Obtain a Music License for Sin Frenos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sin-frenos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3d3764067b8a60e424034d82eec0f8eee776cca34b69e20a3c17c8eebba1dd43` |
 | **Timestamp** | May 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
