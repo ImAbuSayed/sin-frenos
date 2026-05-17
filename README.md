@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sin-frenos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Sin Frenos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sin-frenos/) |
+| **Get License** | [License this song: Sin Frenos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sin-frenos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1532)
 
 ---
 
